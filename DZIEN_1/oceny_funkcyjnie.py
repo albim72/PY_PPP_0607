@@ -15,9 +15,9 @@ def wyswietl_uczniow_z_dobra_ocena(slownik,prog=3):
 
 def znajdz_najlepszego_ucznia(slownik):
     if not slownik:
-        return None,None
-    najlepszy = max(slownik, key=slownik.get)
-    return najlepszy,slownik[najlepszy]
+        return []
+    najwyzsza = max(slownik.values())
+    return [(imie,ocena) for imie,ocena in slownik.items() if ocena==najwyzsza]
 
 def wyswietl_wszystkie_oceny(slownik):
     print("oceny uczniów(lista):")
@@ -63,6 +63,7 @@ usun_ucznia(oceny,"Tomasz")
 wyswietl_uczniow_z_dobra_ocena(oceny,4)
 print("____________________________________")
 
-najlepszy,ocena=znajdz_najlepszego_ucznia(oceny)
-if najlepszy:
-    print(f"najlepszy uczeń to: {najlepszy} z oceną: {ocena}")
+najlepsi =znajdz_najlepszego_ucznia(oceny)
+print(f"\nnajlepsi uczniowie:")
+for imie,ocena in najlepsi:
+    print(f"{imie}: {ocena}")
