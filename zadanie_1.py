@@ -36,4 +36,33 @@ else:
 
 ___________________________________________________________________________
 
+# Lista słowników samochodów
+samochody = [
+    {"marka": "Toyota", "model": "Corolla", "rok": 2018, "przebieg": 67000},
+    {"marka": "Ford", "model": "Focus", "rok": 2020, "przebieg": 40000},
+    {"marka": "BMW", "model": "X3", "rok": 2017, "przebieg": 90000},
+    {"marka": "Toyota", "model": "Yaris", "rok": 2019, "przebieg": 35000},
+    {"marka": "Ford", "model": "Fiesta", "rok": 2016, "przebieg": 110000}
+]
+
+# 1. Funkcja zwracająca średni przebieg
+def sredni_przebieg(samochody):
+    suma = sum(samochod["przebieg"] for samochod in samochody)
+    return suma / len(samochody)
+
+# 2. Funkcja zwracająca najmłodszy samochód (słownik)
+def najmlodszy_samochod(samochody):
+    return max(samochody, key=lambda x: x["rok"])
+
+# 3. Funkcja zwracająca modele danej marki
+def samochody_marki(samochody, marka):
+    return [s["model"] for s in samochody if s["marka"].lower() == marka.lower()]
+
+# Wywołania funkcji i prezentacja wyników
+print("Średni przebieg:", sredni_przebieg(samochody))
+print("Najmłodszy samochód:", najmlodszy_samochod(samochody))
+print("Modele Toyoty:", samochody_marki(samochody, "Toyota"))
+print("Modele Forda:", samochody_marki(samochody, "Ford"))
+print("Modele BMW:", samochody_marki(samochody, "BMW"))
+
 
