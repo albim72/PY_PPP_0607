@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "year": 2015
+    },
+    {
+        "title": "Automate the Boring Stuff",
+        "author": "Al Sweigart",
+        "year": 2019
+    },
+    {
+        "title": "Fluent Python",
+        "author": "Luciano Ramalho",
+        "year": 2015
+    },
+    {
+        "title": "Effective Python",
+        "author": "Brett Slatkin",
+        "year": 2020
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "year": 2008
+    },
+    {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "year": 1999
+    },
+    {
+        "title": "Code Complete",
+        "author": "Steve McConnell",
+        "year": 2004
+    },
+    {
+        "title": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen",
+        "year": 2009
+    },
+    {
+        "title": "Design Patterns",
+        "author": "Erich Gamma",
+        "year": 1994
+    },
+    {
+        "title": "Structure and Interpretation of Computer Programs",
+        "author": "Harold Abelson",
+        "year": 1996
+    },
+    {
+        "title": "You Don't Know JS",
+        "author": "Kyle Simpson",
+        "year": 2015
+    },
+    {
+        "title": "JavaScript: The Good Parts",
+        "author": "Douglas Crockford",
+        "year": 2008
+    },
+    {
+        "title": "Head First Design Patterns",
+        "author": "Eric Freeman",
+        "year": 2004
+    },
+    {
+        "title": "Deep Learning",
+        "author": "Ian Goodfellow",
+        "year": 2016
+    },
+    {
+        "title": "Artificial Intelligence: A Modern Approach",
+        "author": "Stuart Russell",
+        "year": 2010
+    },
+    {
+        "title": "Python for Data Analysis",
+        "author": "Wes McKinney",
+        "year": 2018
+    },
+    {
+        "title": "Hands-On Machine Learning",
+        "author": "Aurélien Géron",
+        "year": 2019
+    },
+    {
+        "title": "Think Python",
+        "author": "Allen B. Downey",
+        "year": 2012
+    },
+    {
+        "title": "Grokking Algorithms",
+        "author": "Aditya Bhargava",
+        "year": 2016
+    },
+    {
+        "title": "Refactoring",
+        "author": "Martin Fowler",
+        "year": 1999
+    }
+]
