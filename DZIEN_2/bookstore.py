@@ -19,15 +19,22 @@ class Book:
             print(f"zakończyłeś czytac książkę {self.title}")
         else:
             print(f"czytasz {pages} stronę książki. Przeczytano {(self.read_pages/self.pages)*100}% stron")
-            
+
     def restart(self):
         self.read_pages = 0
         self.finished = False
         print(f"czytasz od początku książkę {self.title}")
-        
+
     def percent_read(self):
         return round((self.read_pages/self.pages)*100,1)
-    
+
     def value_read(self,new_price):
         self.price = float(new_price)
         print(f"nowa cena {self.title}: {self.price:.2f} zł")
+        
+    def discount(self,percent):
+        self.price *= (1-percent/100)
+        self.price = round(self.price,2)
+        print(f"nowa cena po rabacie {self.title}: {self.price:.2f} zł")
+        
+    
