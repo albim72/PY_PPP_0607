@@ -55,3 +55,17 @@ b2.read(110)
 print(b1)
 print(b2)
 
+print("***********************************************")
+print(f"wartość przeczytanej książki {b1.title}: {b1.price:.2f} zł")
+print(f"wartość przeczytanej książki {b2.title}: {b2.price:.2f} zł")
+
+print("***********************************************")
+b1.discount(10)
+b2.discount(15)
+b1.read(99)
+b2.read(101)
+b1.value_read(89)
+b2.value_read(122)
+
+b1.price = 211
+print(b1.price)
