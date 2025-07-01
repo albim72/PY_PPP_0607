@@ -44,6 +44,28 @@ class Book:
     def __repr__(self):
         return f"{self.title} - {self.author} - {self.year} - {self.price:.2f} zł"
 
+    #metody getter i setter - tradycyjnie
+    def get_price(self):
+        return self.price
+
+    def set_price(self,new_price):
+        if new_price <= 12:
+            raise ValueError("Cena musi być liczbą większą od 12")
+        self.price = new_price
+
+    #metody getter i setter - wbudowane w pythona -> properties
+    @property
+    def title(self):
+        return self._title
+
+    @title.setter
+    def title(self,new_title):
+        if len(new_title) < 9:
+            raise ValueError("Tytuł musi mieć co najmniej 9 znaków")
+        self._title = new_title
+
+
+
 print("***********************************************")
 
 b1 = Book("Python 101 przepisów!","Marcin Albiniak",2025,340,60.0)
@@ -56,8 +78,8 @@ print(b1)
 print(b2)
 
 print("***********************************************")
-print(f"wartość przeczytanej książki {b1.title}: {b1.price:.2f} zł")
-print(f"wartość przeczytanej książki {b2.title}: {b2.price:.2f} zł")
+print(f"wartość przeczytanej książki {b1.title}: {b1.get_price():.2f} zł")
+print(f"wartość przeczytanej książki {b2.title}: {b2.get_price():.2f} zł")
 
 print("***********************************************")
 b1.discount(10)
@@ -67,5 +89,10 @@ b2.read(101)
 b1.value_read(89)
 b2.value_read(122)
 
-b1.price = 211
-print(b1.price)
+b1.set_price(211)
+print(b1.get_price())
+
+print("***********************************************")
+print("zmiana tytułu książki")
+b1.title = "Python 101"
+print(b1)
