@@ -37,6 +37,12 @@ class Book:
         self.price = round(self.price,2)
         print(f"nowa cena po rabacie {self.title}: {self.price:.2f} zł")
 
+    def __str__(self):
+        status = "zakończona" if self.finished else "czytana"
+        return f"{self.title} - {self.author} - {self.year} - {self.pages} stron - {status} - {self.percent_read()}%"
+
+    def __repr__(self):
+        return f"{self.title} - {self.author} - {self.year} - {self.price:.2f} zł"
 
 print("***********************************************")
 
