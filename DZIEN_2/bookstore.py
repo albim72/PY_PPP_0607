@@ -18,7 +18,7 @@ class Book:
             self.finished = True
             print(f"zakończyłeś czytac książkę {self.title}")
         else:
-            print(f"czytasz {pages} stronę książki. Przeczytano {(self.read_pages/self.pages)*100}% stron")
+            print(f"czytasz {pages} stronę książki. Przeczytano {(self.read_pages/self.pages)*100:.2f}% stron")
 
     def restart(self):
         self.read_pages = 0
@@ -31,10 +31,21 @@ class Book:
     def value_read(self,new_price):
         self.price = float(new_price)
         print(f"nowa cena {self.title}: {self.price:.2f} zł")
-        
+
     def discount(self,percent):
         self.price *= (1-percent/100)
         self.price = round(self.price,2)
         print(f"nowa cena po rabacie {self.title}: {self.price:.2f} zł")
-        
-    
+
+
+print("***********************************************")
+
+b1 = Book("Python 101 przepisów!","Marcin Albiniak",2025,340,60.0)
+b2 = Book("AI dla  początkujących!","Marcin Albiniak",2025,220,72.0)
+
+b1.read(70)
+b2.read(110)
+
+print(b1)
+print(b2)
+
