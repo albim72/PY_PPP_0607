@@ -1,0 +1,14 @@
+<library>
+    <book>
+        <title>Python dla początkujących</title>
+        <author>Jan Kot</author>
+    </book>
+    <book>
+        <title>Wstęp do AI</title>
+        <author>Jerzy Nowak</author>
+    </book>
+    <book>
+        <title>Analiza danych big data</title>
+        <author>Anna Nowak</author>
+    </book>
+</library>
