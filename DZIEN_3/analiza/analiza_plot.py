@@ -25,7 +25,7 @@ with open(plik_csv, mode="w", newline="", encoding="utf-8") as f:
             random.choice(statusy)
         ])
 
-print("✅ Plik CSV wygenerowany.")
+print("Plik CSV wygenerowany.")
 
 # === KROK 2: Wczytanie danych z Pandas + NumPy ===
 
@@ -103,4 +103,4 @@ ET.SubElement(naj_elem, "cena").text = str(najdrozszy["Cena"])
 
 ET.ElementTree(root).write(plik_wynik_xml, encoding="utf-8", xml_declaration=True)
 
-print("✅ Wyniki zapisano do CSV, XML oraz wygenerowano wykresy.")
+print("Wyniki zapisano do CSV, XML oraz wygenerowano wykresy.")
