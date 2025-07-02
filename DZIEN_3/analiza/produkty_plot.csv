@@ -1,0 +1,1001 @@
+ID,Nazwa,Kategoria,Cena,Dostępność
+1,Produkt_1,Książki,1321.33,Brak
+2,Produkt_2,Książki,1247.66,Brak
+3,Produkt_3,Książki,1085.78,Brak
+4,Produkt_4,Książki,1956.24,Dostępny
+5,Produkt_5,Książki,1134.12,Brak
+6,Produkt_6,Sport,954.74,Brak
+7,Produkt_7,Dom,1501.65,Brak
+8,Produkt_8,Elektronika,84.82,Dostępny
+9,Produkt_9,Książki,1512.93,Na zamówienie
+10,Produkt_10,Elektronika,771.31,Brak
+11,Produkt_11,Sport,1703.9,Brak
+12,Produkt_12,Sport,1678.0,Na zamówienie
+13,Produkt_13,Książki,1335.3,Brak
+14,Produkt_14,Książki,199.64,Na zamówienie
+15,Produkt_15,Zabawki,181.15,Na zamówienie
+16,Produkt_16,Moda,763.06,Brak
+17,Produkt_17,Elektronika,325.93,Na zamówienie
+18,Produkt_18,Elektronika,1107.94,Dostępny
+19,Produkt_19,Zabawki,541.89,Dostępny
+20,Produkt_20,Dom,587.4,Dostępny
+21,Produkt_21,Sport,568.93,Na zamówienie
+22,Produkt_22,Książki,335.17,Brak
+23,Produkt_23,Sport,424.17,Dostępny
+24,Produkt_24,Moda,297.87,Brak
+25,Produkt_25,Zabawki,194.65,Brak
+26,Produkt_26,Elektronika,1220.1,Dostępny
+27,Produkt_27,Moda,1027.7,Dostępny
+28,Produkt_28,Sport,425.56,Na zamówienie
+29,Produkt_29,Dom,230.49,Na zamówienie
+30,Produkt_30,Sport,212.46,Dostępny
+31,Produkt_31,Książki,289.25,Brak
+32,Produkt_32,Dom,1188.63,Brak
+33,Produkt_33,Elektronika,1478.67,Dostępny
+34,Produkt_34,Książki,1922.28,Dostępny
+35,Produkt_35,Zabawki,251.8,Dostępny
+36,Produkt_36,Sport,1251.71,Brak
+37,Produkt_37,Sport,1682.24,Na zamówienie
+38,Produkt_38,Dom,1075.46,Dostępny
+39,Produkt_39,Moda,204.91,Na zamówienie
+40,Produkt_40,Zabawki,321.46,Na zamówienie
+41,Produkt_41,Moda,442.17,Brak
+42,Produkt_42,Dom,1336.75,Na zamówienie
+43,Produkt_43,Dom,885.8,Na zamówienie
+44,Produkt_44,Dom,121.25,Brak
+45,Produkt_45,Sport,1659.78,Brak
+46,Produkt_46,Zabawki,96.61,Brak
+47,Produkt_47,Elektronika,1814.33,Brak
+48,Produkt_48,Zabawki,1670.29,Dostępny
+49,Produkt_49,Moda,49.32,Brak
+50,Produkt_50,Książki,1679.88,Dostępny
+51,Produkt_51,Zabawki,1472.15,Brak
+52,Produkt_52,Dom,329.03,Na zamówienie
+53,Produkt_53,Elektronika,1005.13,Dostępny
+54,Produkt_54,Sport,545.03,Dostępny
+55,Produkt_55,Elektronika,856.37,Na zamówienie
+56,Produkt_56,Zabawki,133.36,Na zamówienie
+57,Produkt_57,Zabawki,528.21,Dostępny
+58,Produkt_58,Książki,1495.76,Na zamówienie
+59,Produkt_59,Zabawki,1717.6,Na zamówienie
+60,Produkt_60,Zabawki,237.9,Dostępny
+61,Produkt_61,Dom,1017.16,Na zamówienie
+62,Produkt_62,Zabawki,1199.31,Dostępny
+63,Produkt_63,Sport,1749.51,Brak
+64,Produkt_64,Moda,262.23,Dostępny
+65,Produkt_65,Zabawki,1745.05,Brak
+66,Produkt_66,Dom,1039.36,Na zamówienie
+67,Produkt_67,Sport,1434.2,Dostępny
+68,Produkt_68,Sport,13.83,Na zamówienie
+69,Produkt_69,Książki,1282.01,Brak
+70,Produkt_70,Dom,772.74,Brak
+71,Produkt_71,Książki,265.62,Brak
+72,Produkt_72,Zabawki,856.03,Brak
+73,Produkt_73,Elektronika,161.8,Na zamówienie
+74,Produkt_74,Dom,290.04,Brak
+75,Produkt_75,Książki,493.3,Na zamówienie
+76,Produkt_76,Sport,1578.21,Dostępny
+77,Produkt_77,Książki,1313.75,Dostępny
+78,Produkt_78,Dom,611.26,Na zamówienie
+79,Produkt_79,Moda,697.82,Dostępny
+80,Produkt_80,Moda,494.65,Dostępny
+81,Produkt_81,Elektronika,641.49,Brak
+82,Produkt_82,Sport,937.92,Na zamówienie
+83,Produkt_83,Elektronika,146.7,Dostępny
+84,Produkt_84,Moda,348.85,Dostępny
+85,Produkt_85,Dom,132.42,Dostępny
+86,Produkt_86,Książki,1939.66,Na zamówienie
+87,Produkt_87,Książki,1884.8,Dostępny
+88,Produkt_88,Zabawki,1652.18,Dostępny
+89,Produkt_89,Zabawki,1182.69,Dostępny
+90,Produkt_90,Sport,1422.7,Brak
+91,Produkt_91,Książki,1604.74,Na zamówienie
+92,Produkt_92,Książki,886.13,Brak
+93,Produkt_93,Moda,421.7,Na zamówienie
+94,Produkt_94,Książki,410.3,Brak
+95,Produkt_95,Elektronika,200.16,Brak
+96,Produkt_96,Elektronika,251.9,Brak
+97,Produkt_97,Sport,540.34,Brak
+98,Produkt_98,Moda,1861.12,Na zamówienie
+99,Produkt_99,Moda,134.93,Na zamówienie
+100,Produkt_100,Dom,1639.75,Brak
+101,Produkt_101,Książki,394.48,Na zamówienie
+102,Produkt_102,Dom,12.95,Dostępny
+103,Produkt_103,Zabawki,854.1,Na zamówienie
+104,Produkt_104,Sport,489.78,Brak
+105,Produkt_105,Elektronika,1209.18,Dostępny
+106,Produkt_106,Zabawki,952.21,Dostępny
+107,Produkt_107,Dom,1042.41,Brak
+108,Produkt_108,Książki,250.22,Brak
+109,Produkt_109,Książki,1199.45,Dostępny
+110,Produkt_110,Książki,166.38,Brak
+111,Produkt_111,Elektronika,304.25,Na zamówienie
+112,Produkt_112,Zabawki,1034.86,Brak
+113,Produkt_113,Dom,740.52,Brak
+114,Produkt_114,Elektronika,1045.2,Brak
+115,Produkt_115,Sport,1688.17,Na zamówienie
+116,Produkt_116,Zabawki,250.07,Dostępny
+117,Produkt_117,Książki,1090.71,Na zamówienie
+118,Produkt_118,Elektronika,405.27,Na zamówienie
+119,Produkt_119,Moda,1405.83,Brak
+120,Produkt_120,Dom,1080.46,Brak
+121,Produkt_121,Zabawki,1208.05,Dostępny
+122,Produkt_122,Książki,837.2,Brak
+123,Produkt_123,Sport,481.02,Brak
+124,Produkt_124,Sport,1896.16,Dostępny
+125,Produkt_125,Sport,1007.08,Brak
+126,Produkt_126,Moda,1815.24,Na zamówienie
+127,Produkt_127,Moda,976.3,Na zamówienie
+128,Produkt_128,Sport,96.84,Dostępny
+129,Produkt_129,Zabawki,432.0,Na zamówienie
+130,Produkt_130,Książki,1473.4,Dostępny
+131,Produkt_131,Książki,850.51,Dostępny
+132,Produkt_132,Zabawki,117.31,Na zamówienie
+133,Produkt_133,Dom,1101.06,Brak
+134,Produkt_134,Dom,1167.67,Brak
+135,Produkt_135,Dom,1603.55,Na zamówienie
+136,Produkt_136,Moda,1458.18,Brak
+137,Produkt_137,Sport,131.77,Na zamówienie
+138,Produkt_138,Moda,87.76,Dostępny
+139,Produkt_139,Zabawki,585.88,Na zamówienie
+140,Produkt_140,Sport,1026.31,Brak
+141,Produkt_141,Sport,1837.09,Brak
+142,Produkt_142,Książki,405.93,Na zamówienie
+143,Produkt_143,Elektronika,136.12,Dostępny
+144,Produkt_144,Książki,1586.35,Brak
+145,Produkt_145,Zabawki,510.24,Na zamówienie
+146,Produkt_146,Moda,502.37,Na zamówienie
+147,Produkt_147,Dom,1559.34,Brak
+148,Produkt_148,Elektronika,1448.03,Na zamówienie
+149,Produkt_149,Książki,703.43,Na zamówienie
+150,Produkt_150,Moda,1126.67,Dostępny
+151,Produkt_151,Moda,295.67,Dostępny
+152,Produkt_152,Książki,1583.48,Brak
+153,Produkt_153,Dom,1348.09,Na zamówienie
+154,Produkt_154,Zabawki,1318.72,Brak
+155,Produkt_155,Sport,1559.94,Brak
+156,Produkt_156,Książki,881.03,Dostępny
+157,Produkt_157,Dom,840.58,Brak
+158,Produkt_158,Dom,864.59,Brak
+159,Produkt_159,Dom,1927.12,Dostępny
+160,Produkt_160,Elektronika,1435.51,Brak
+161,Produkt_161,Książki,957.94,Brak
+162,Produkt_162,Dom,831.78,Dostępny
+163,Produkt_163,Sport,666.02,Na zamówienie
+164,Produkt_164,Dom,504.17,Na zamówienie
+165,Produkt_165,Moda,270.61,Na zamówienie
+166,Produkt_166,Zabawki,497.79,Brak
+167,Produkt_167,Zabawki,1877.83,Dostępny
+168,Produkt_168,Elektronika,1880.72,Na zamówienie
+169,Produkt_169,Moda,410.46,Na zamówienie
+170,Produkt_170,Książki,1193.2,Dostępny
+171,Produkt_171,Zabawki,1748.23,Dostępny
+172,Produkt_172,Moda,997.78,Brak
+173,Produkt_173,Moda,305.99,Dostępny
+174,Produkt_174,Książki,1932.88,Dostępny
+175,Produkt_175,Sport,827.43,Dostępny
+176,Produkt_176,Elektronika,1756.32,Brak
+177,Produkt_177,Elektronika,994.36,Dostępny
+178,Produkt_178,Moda,635.01,Na zamówienie
+179,Produkt_179,Moda,1608.88,Brak
+180,Produkt_180,Elektronika,1243.03,Brak
+181,Produkt_181,Dom,1340.2,Brak
+182,Produkt_182,Elektronika,1040.44,Na zamówienie
+183,Produkt_183,Elektronika,1867.67,Na zamówienie
+184,Produkt_184,Dom,202.8,Na zamówienie
+185,Produkt_185,Dom,1021.11,Brak
+186,Produkt_186,Dom,1238.03,Brak
+187,Produkt_187,Sport,1246.06,Brak
+188,Produkt_188,Książki,1066.64,Dostępny
+189,Produkt_189,Zabawki,1307.84,Brak
+190,Produkt_190,Elektronika,112.14,Brak
+191,Produkt_191,Sport,1030.94,Brak
+192,Produkt_192,Książki,1610.96,Dostępny
+193,Produkt_193,Dom,1420.66,Brak
+194,Produkt_194,Elektronika,871.38,Dostępny
+195,Produkt_195,Sport,399.24,Na zamówienie
+196,Produkt_196,Elektronika,1974.54,Brak
+197,Produkt_197,Zabawki,898.95,Na zamówienie
+198,Produkt_198,Moda,1801.13,Brak
+199,Produkt_199,Dom,512.2,Dostępny
+200,Produkt_200,Dom,1226.92,Na zamówienie
+201,Produkt_201,Książki,1625.88,Na zamówienie
+202,Produkt_202,Sport,324.71,Brak
+203,Produkt_203,Elektronika,1810.1,Brak
+204,Produkt_204,Moda,1459.06,Na zamówienie
+205,Produkt_205,Dom,407.06,Na zamówienie
+206,Produkt_206,Sport,829.85,Na zamówienie
+207,Produkt_207,Elektronika,1211.6,Na zamówienie
+208,Produkt_208,Dom,1303.87,Na zamówienie
+209,Produkt_209,Książki,673.86,Na zamówienie
+210,Produkt_210,Książki,836.08,Dostępny
+211,Produkt_211,Moda,116.25,Brak
+212,Produkt_212,Moda,1563.93,Dostępny
+213,Produkt_213,Moda,982.92,Dostępny
+214,Produkt_214,Sport,513.28,Na zamówienie
+215,Produkt_215,Sport,535.5,Brak
+216,Produkt_216,Zabawki,1112.93,Dostępny
+217,Produkt_217,Dom,1144.12,Brak
+218,Produkt_218,Sport,1753.66,Dostępny
+219,Produkt_219,Zabawki,590.91,Na zamówienie
+220,Produkt_220,Zabawki,932.65,Brak
+221,Produkt_221,Elektronika,238.99,Brak
+222,Produkt_222,Zabawki,1443.98,Brak
+223,Produkt_223,Zabawki,964.71,Brak
+224,Produkt_224,Zabawki,276.83,Na zamówienie
+225,Produkt_225,Sport,990.09,Na zamówienie
+226,Produkt_226,Elektronika,987.92,Dostępny
+227,Produkt_227,Elektronika,1595.64,Brak
+228,Produkt_228,Sport,1757.25,Na zamówienie
+229,Produkt_229,Dom,899.76,Brak
+230,Produkt_230,Dom,1826.98,Brak
+231,Produkt_231,Zabawki,1008.57,Dostępny
+232,Produkt_232,Sport,1562.68,Na zamówienie
+233,Produkt_233,Elektronika,760.39,Na zamówienie
+234,Produkt_234,Sport,363.93,Dostępny
+235,Produkt_235,Moda,344.19,Brak
+236,Produkt_236,Elektronika,635.61,Brak
+237,Produkt_237,Książki,471.34,Brak
+238,Produkt_238,Elektronika,527.77,Dostępny
+239,Produkt_239,Elektronika,1862.19,Na zamówienie
+240,Produkt_240,Książki,607.23,Brak
+241,Produkt_241,Książki,449.11,Brak
+242,Produkt_242,Sport,564.91,Dostępny
+243,Produkt_243,Elektronika,444.21,Dostępny
+244,Produkt_244,Moda,389.94,Dostępny
+245,Produkt_245,Zabawki,985.14,Dostępny
+246,Produkt_246,Moda,399.73,Dostępny
+247,Produkt_247,Elektronika,1358.8,Na zamówienie
+248,Produkt_248,Sport,442.43,Na zamówienie
+249,Produkt_249,Zabawki,210.18,Brak
+250,Produkt_250,Elektronika,547.86,Dostępny
+251,Produkt_251,Dom,1344.51,Na zamówienie
+252,Produkt_252,Moda,456.09,Brak
+253,Produkt_253,Elektronika,585.27,Brak
+254,Produkt_254,Sport,1031.59,Na zamówienie
+255,Produkt_255,Moda,333.08,Dostępny
+256,Produkt_256,Dom,751.61,Na zamówienie
+257,Produkt_257,Książki,683.88,Na zamówienie
+258,Produkt_258,Sport,1069.17,Dostępny
+259,Produkt_259,Książki,1633.53,Dostępny
+260,Produkt_260,Moda,1061.59,Brak
+261,Produkt_261,Zabawki,1161.19,Na zamówienie
+262,Produkt_262,Zabawki,1819.09,Dostępny
+263,Produkt_263,Książki,222.75,Na zamówienie
+264,Produkt_264,Zabawki,732.36,Brak
+265,Produkt_265,Moda,1582.45,Brak
+266,Produkt_266,Książki,1487.11,Na zamówienie
+267,Produkt_267,Zabawki,1536.51,Brak
+268,Produkt_268,Sport,279.54,Dostępny
+269,Produkt_269,Sport,1741.21,Dostępny
+270,Produkt_270,Książki,639.1,Na zamówienie
+271,Produkt_271,Elektronika,1799.83,Dostępny
+272,Produkt_272,Dom,460.87,Brak
+273,Produkt_273,Dom,1453.15,Brak
+274,Produkt_274,Dom,1787.96,Dostępny
+275,Produkt_275,Moda,1852.97,Brak
+276,Produkt_276,Zabawki,815.34,Na zamówienie
+277,Produkt_277,Zabawki,264.31,Na zamówienie
+278,Produkt_278,Elektronika,120.02,Dostępny
+279,Produkt_279,Sport,321.33,Na zamówienie
+280,Produkt_280,Elektronika,219.56,Na zamówienie
+281,Produkt_281,Książki,1618.34,Brak
+282,Produkt_282,Elektronika,397.26,Brak
+283,Produkt_283,Sport,1597.05,Dostępny
+284,Produkt_284,Zabawki,1498.06,Brak
+285,Produkt_285,Zabawki,1434.01,Dostępny
+286,Produkt_286,Sport,605.98,Brak
+287,Produkt_287,Dom,882.71,Dostępny
+288,Produkt_288,Moda,1872.18,Na zamówienie
+289,Produkt_289,Moda,1828.79,Na zamówienie
+290,Produkt_290,Elektronika,1633.71,Dostępny
+291,Produkt_291,Książki,1511.96,Na zamówienie
+292,Produkt_292,Dom,1749.49,Dostępny
+293,Produkt_293,Dom,1305.03,Dostępny
+294,Produkt_294,Dom,494.05,Brak
+295,Produkt_295,Dom,887.02,Brak
+296,Produkt_296,Moda,1426.76,Dostępny
+297,Produkt_297,Moda,1263.26,Dostępny
+298,Produkt_298,Sport,1761.45,Dostępny
+299,Produkt_299,Elektronika,1733.73,Na zamówienie
+300,Produkt_300,Zabawki,1597.65,Brak
+301,Produkt_301,Elektronika,832.28,Brak
+302,Produkt_302,Moda,834.28,Dostępny
+303,Produkt_303,Moda,1329.64,Na zamówienie
+304,Produkt_304,Dom,93.63,Na zamówienie
+305,Produkt_305,Książki,1691.49,Na zamówienie
+306,Produkt_306,Sport,909.78,Dostępny
+307,Produkt_307,Elektronika,52.39,Na zamówienie
+308,Produkt_308,Elektronika,1222.35,Dostępny
+309,Produkt_309,Zabawki,1356.97,Na zamówienie
+310,Produkt_310,Sport,439.47,Brak
+311,Produkt_311,Moda,201.98,Dostępny
+312,Produkt_312,Książki,1402.5,Brak
+313,Produkt_313,Zabawki,1723.51,Brak
+314,Produkt_314,Elektronika,386.19,Na zamówienie
+315,Produkt_315,Książki,896.55,Dostępny
+316,Produkt_316,Elektronika,1222.05,Na zamówienie
+317,Produkt_317,Moda,1271.04,Na zamówienie
+318,Produkt_318,Sport,183.17,Na zamówienie
+319,Produkt_319,Książki,165.95,Dostępny
+320,Produkt_320,Dom,631.33,Brak
+321,Produkt_321,Dom,1001.38,Dostępny
+322,Produkt_322,Książki,1853.77,Brak
+323,Produkt_323,Zabawki,481.73,Brak
+324,Produkt_324,Zabawki,881.71,Dostępny
+325,Produkt_325,Dom,1643.88,Na zamówienie
+326,Produkt_326,Elektronika,158.62,Dostępny
+327,Produkt_327,Dom,735.99,Brak
+328,Produkt_328,Zabawki,1136.87,Na zamówienie
+329,Produkt_329,Zabawki,387.53,Dostępny
+330,Produkt_330,Zabawki,748.67,Dostępny
+331,Produkt_331,Dom,1508.3,Dostępny
+332,Produkt_332,Sport,1194.23,Dostępny
+333,Produkt_333,Dom,1577.84,Na zamówienie
+334,Produkt_334,Sport,1348.18,Dostępny
+335,Produkt_335,Moda,926.93,Brak
+336,Produkt_336,Dom,446.31,Brak
+337,Produkt_337,Moda,1867.61,Na zamówienie
+338,Produkt_338,Moda,1815.31,Brak
+339,Produkt_339,Moda,1142.07,Brak
+340,Produkt_340,Zabawki,1902.64,Na zamówienie
+341,Produkt_341,Moda,623.89,Brak
+342,Produkt_342,Zabawki,1343.18,Dostępny
+343,Produkt_343,Elektronika,1552.43,Dostępny
+344,Produkt_344,Zabawki,1558.38,Brak
+345,Produkt_345,Książki,536.81,Na zamówienie
+346,Produkt_346,Zabawki,294.4,Brak
+347,Produkt_347,Książki,1854.32,Brak
+348,Produkt_348,Elektronika,280.36,Dostępny
+349,Produkt_349,Sport,1663.45,Dostępny
+350,Produkt_350,Dom,291.77,Brak
+351,Produkt_351,Sport,604.43,Dostępny
+352,Produkt_352,Moda,967.64,Brak
+353,Produkt_353,Moda,142.58,Brak
+354,Produkt_354,Książki,1811.23,Dostępny
+355,Produkt_355,Elektronika,931.16,Na zamówienie
+356,Produkt_356,Elektronika,801.81,Dostępny
+357,Produkt_357,Dom,1955.95,Na zamówienie
+358,Produkt_358,Moda,1048.5,Na zamówienie
+359,Produkt_359,Dom,1757.28,Brak
+360,Produkt_360,Sport,581.5,Brak
+361,Produkt_361,Dom,1781.8,Na zamówienie
+362,Produkt_362,Elektronika,1860.15,Dostępny
+363,Produkt_363,Elektronika,1192.18,Dostępny
+364,Produkt_364,Zabawki,1129.71,Na zamówienie
+365,Produkt_365,Książki,1430.3,Na zamówienie
+366,Produkt_366,Sport,995.76,Na zamówienie
+367,Produkt_367,Książki,444.57,Na zamówienie
+368,Produkt_368,Książki,128.16,Brak
+369,Produkt_369,Sport,263.01,Brak
+370,Produkt_370,Książki,1232.45,Dostępny
+371,Produkt_371,Elektronika,219.1,Brak
+372,Produkt_372,Sport,977.0,Dostępny
+373,Produkt_373,Moda,308.79,Dostępny
+374,Produkt_374,Elektronika,840.29,Brak
+375,Produkt_375,Moda,1307.76,Dostępny
+376,Produkt_376,Moda,1210.2,Na zamówienie
+377,Produkt_377,Sport,651.82,Dostępny
+378,Produkt_378,Książki,75.72,Brak
+379,Produkt_379,Dom,958.37,Na zamówienie
+380,Produkt_380,Moda,624.89,Na zamówienie
+381,Produkt_381,Moda,1994.62,Dostępny
+382,Produkt_382,Elektronika,949.22,Brak
+383,Produkt_383,Książki,1451.46,Brak
+384,Produkt_384,Zabawki,119.99,Brak
+385,Produkt_385,Książki,1774.75,Dostępny
+386,Produkt_386,Moda,348.53,Dostępny
+387,Produkt_387,Moda,1599.75,Na zamówienie
+388,Produkt_388,Zabawki,1681.24,Dostępny
+389,Produkt_389,Elektronika,1024.16,Na zamówienie
+390,Produkt_390,Książki,1620.06,Brak
+391,Produkt_391,Dom,582.75,Brak
+392,Produkt_392,Książki,1903.69,Dostępny
+393,Produkt_393,Dom,1159.69,Dostępny
+394,Produkt_394,Książki,504.86,Na zamówienie
+395,Produkt_395,Moda,237.13,Dostępny
+396,Produkt_396,Elektronika,1210.64,Brak
+397,Produkt_397,Książki,19.07,Dostępny
+398,Produkt_398,Sport,1114.38,Dostępny
+399,Produkt_399,Dom,1886.81,Brak
+400,Produkt_400,Książki,288.07,Brak
+401,Produkt_401,Moda,303.79,Na zamówienie
+402,Produkt_402,Elektronika,519.66,Dostępny
+403,Produkt_403,Moda,1342.24,Brak
+404,Produkt_404,Książki,1325.61,Dostępny
+405,Produkt_405,Moda,1385.25,Brak
+406,Produkt_406,Dom,771.41,Na zamówienie
+407,Produkt_407,Sport,1508.62,Brak
+408,Produkt_408,Książki,863.56,Dostępny
+409,Produkt_409,Zabawki,963.16,Na zamówienie
+410,Produkt_410,Zabawki,946.76,Brak
+411,Produkt_411,Dom,948.53,Brak
+412,Produkt_412,Sport,329.63,Brak
+413,Produkt_413,Elektronika,90.08,Dostępny
+414,Produkt_414,Sport,1696.68,Na zamówienie
+415,Produkt_415,Moda,467.13,Dostępny
+416,Produkt_416,Książki,801.67,Brak
+417,Produkt_417,Zabawki,1905.05,Dostępny
+418,Produkt_418,Książki,983.25,Dostępny
+419,Produkt_419,Dom,1523.08,Brak
+420,Produkt_420,Sport,711.62,Brak
+421,Produkt_421,Moda,948.12,Na zamówienie
+422,Produkt_422,Sport,1751.9,Dostępny
+423,Produkt_423,Książki,361.82,Brak
+424,Produkt_424,Sport,1963.32,Na zamówienie
+425,Produkt_425,Książki,161.09,Dostępny
+426,Produkt_426,Elektronika,1568.69,Dostępny
+427,Produkt_427,Elektronika,485.13,Na zamówienie
+428,Produkt_428,Dom,684.83,Brak
+429,Produkt_429,Sport,1070.73,Brak
+430,Produkt_430,Książki,813.49,Dostępny
+431,Produkt_431,Moda,683.32,Brak
+432,Produkt_432,Moda,351.49,Na zamówienie
+433,Produkt_433,Zabawki,811.71,Dostępny
+434,Produkt_434,Zabawki,500.44,Na zamówienie
+435,Produkt_435,Sport,128.89,Dostępny
+436,Produkt_436,Sport,325.63,Dostępny
+437,Produkt_437,Zabawki,1406.38,Dostępny
+438,Produkt_438,Zabawki,1934.06,Dostępny
+439,Produkt_439,Zabawki,1631.7,Dostępny
+440,Produkt_440,Książki,127.24,Dostępny
+441,Produkt_441,Moda,1264.15,Dostępny
+442,Produkt_442,Książki,541.03,Dostępny
+443,Produkt_443,Zabawki,698.39,Na zamówienie
+444,Produkt_444,Sport,500.87,Dostępny
+445,Produkt_445,Sport,1986.35,Brak
+446,Produkt_446,Dom,1730.33,Brak
+447,Produkt_447,Dom,227.19,Dostępny
+448,Produkt_448,Dom,1543.5,Brak
+449,Produkt_449,Sport,73.91,Na zamówienie
+450,Produkt_450,Moda,29.65,Brak
+451,Produkt_451,Moda,1754.99,Brak
+452,Produkt_452,Zabawki,1032.26,Na zamówienie
+453,Produkt_453,Sport,1047.05,Brak
+454,Produkt_454,Moda,642.7,Na zamówienie
+455,Produkt_455,Książki,986.22,Dostępny
+456,Produkt_456,Dom,291.26,Na zamówienie
+457,Produkt_457,Książki,977.4,Na zamówienie
+458,Produkt_458,Książki,1205.41,Dostępny
+459,Produkt_459,Książki,1857.74,Dostępny
+460,Produkt_460,Dom,57.41,Dostępny
+461,Produkt_461,Dom,1524.07,Brak
+462,Produkt_462,Sport,200.44,Brak
+463,Produkt_463,Książki,743.18,Na zamówienie
+464,Produkt_464,Moda,492.39,Na zamówienie
+465,Produkt_465,Książki,312.41,Dostępny
+466,Produkt_466,Elektronika,137.1,Dostępny
+467,Produkt_467,Zabawki,117.35,Brak
+468,Produkt_468,Dom,1613.12,Na zamówienie
+469,Produkt_469,Zabawki,1145.51,Na zamówienie
+470,Produkt_470,Elektronika,1041.99,Na zamówienie
+471,Produkt_471,Elektronika,973.53,Na zamówienie
+472,Produkt_472,Dom,1077.83,Dostępny
+473,Produkt_473,Sport,1217.53,Brak
+474,Produkt_474,Zabawki,1409.42,Na zamówienie
+475,Produkt_475,Elektronika,159.26,Dostępny
+476,Produkt_476,Książki,735.88,Brak
+477,Produkt_477,Zabawki,1979.01,Brak
+478,Produkt_478,Sport,884.67,Na zamówienie
+479,Produkt_479,Dom,200.34,Brak
+480,Produkt_480,Książki,1574.22,Na zamówienie
+481,Produkt_481,Zabawki,647.21,Dostępny
+482,Produkt_482,Elektronika,565.95,Brak
+483,Produkt_483,Sport,1572.35,Dostępny
+484,Produkt_484,Dom,1736.8,Na zamówienie
+485,Produkt_485,Elektronika,909.52,Dostępny
+486,Produkt_486,Dom,1646.4,Na zamówienie
+487,Produkt_487,Elektronika,748.97,Na zamówienie
+488,Produkt_488,Moda,1178.4,Brak
+489,Produkt_489,Moda,51.68,Dostępny
+490,Produkt_490,Moda,498.5,Brak
+491,Produkt_491,Zabawki,320.28,Brak
+492,Produkt_492,Zabawki,1796.36,Na zamówienie
+493,Produkt_493,Zabawki,1908.88,Brak
+494,Produkt_494,Książki,355.0,Na zamówienie
+495,Produkt_495,Sport,1128.44,Na zamówienie
+496,Produkt_496,Elektronika,388.68,Na zamówienie
+497,Produkt_497,Książki,292.48,Dostępny
+498,Produkt_498,Dom,1935.79,Na zamówienie
+499,Produkt_499,Zabawki,1047.36,Na zamówienie
+500,Produkt_500,Elektronika,630.23,Dostępny
+501,Produkt_501,Dom,1674.1,Brak
+502,Produkt_502,Dom,84.63,Brak
+503,Produkt_503,Moda,144.24,Dostępny
+504,Produkt_504,Książki,538.48,Brak
+505,Produkt_505,Elektronika,803.35,Brak
+506,Produkt_506,Elektronika,1364.45,Brak
+507,Produkt_507,Dom,1951.67,Brak
+508,Produkt_508,Książki,436.98,Dostępny
+509,Produkt_509,Sport,1911.6,Na zamówienie
+510,Produkt_510,Zabawki,1663.3,Brak
+511,Produkt_511,Książki,1742.23,Brak
+512,Produkt_512,Moda,1935.18,Brak
+513,Produkt_513,Dom,632.25,Brak
+514,Produkt_514,Elektronika,305.21,Brak
+515,Produkt_515,Sport,1742.15,Na zamówienie
+516,Produkt_516,Sport,667.57,Brak
+517,Produkt_517,Zabawki,1099.37,Na zamówienie
+518,Produkt_518,Elektronika,1497.63,Na zamówienie
+519,Produkt_519,Książki,826.99,Na zamówienie
+520,Produkt_520,Moda,1650.42,Brak
+521,Produkt_521,Moda,1364.75,Dostępny
+522,Produkt_522,Elektronika,1439.1,Dostępny
+523,Produkt_523,Moda,332.17,Na zamówienie
+524,Produkt_524,Moda,1719.01,Brak
+525,Produkt_525,Książki,302.34,Brak
+526,Produkt_526,Moda,1141.71,Na zamówienie
+527,Produkt_527,Zabawki,67.89,Na zamówienie
+528,Produkt_528,Moda,781.45,Brak
+529,Produkt_529,Dom,883.56,Dostępny
+530,Produkt_530,Elektronika,1135.63,Brak
+531,Produkt_531,Moda,1012.86,Na zamówienie
+532,Produkt_532,Moda,995.21,Dostępny
+533,Produkt_533,Sport,1815.02,Dostępny
+534,Produkt_534,Elektronika,1761.94,Brak
+535,Produkt_535,Moda,1874.07,Dostępny
+536,Produkt_536,Moda,1800.76,Na zamówienie
+537,Produkt_537,Elektronika,871.46,Na zamówienie
+538,Produkt_538,Dom,532.65,Dostępny
+539,Produkt_539,Elektronika,644.52,Brak
+540,Produkt_540,Dom,1404.12,Na zamówienie
+541,Produkt_541,Sport,1613.44,Dostępny
+542,Produkt_542,Sport,1293.77,Dostępny
+543,Produkt_543,Sport,1875.88,Dostępny
+544,Produkt_544,Zabawki,1795.15,Dostępny
+545,Produkt_545,Elektronika,445.85,Na zamówienie
+546,Produkt_546,Zabawki,297.69,Na zamówienie
+547,Produkt_547,Moda,239.74,Na zamówienie
+548,Produkt_548,Moda,386.36,Na zamówienie
+549,Produkt_549,Zabawki,863.4,Na zamówienie
+550,Produkt_550,Dom,1157.92,Dostępny
+551,Produkt_551,Elektronika,1577.14,Na zamówienie
+552,Produkt_552,Moda,1972.82,Brak
+553,Produkt_553,Elektronika,697.41,Na zamówienie
+554,Produkt_554,Zabawki,1822.22,Brak
+555,Produkt_555,Elektronika,714.48,Brak
+556,Produkt_556,Książki,1805.48,Dostępny
+557,Produkt_557,Książki,1435.55,Na zamówienie
+558,Produkt_558,Sport,1661.39,Dostępny
+559,Produkt_559,Sport,72.95,Na zamówienie
+560,Produkt_560,Książki,78.51,Na zamówienie
+561,Produkt_561,Elektronika,542.85,Dostępny
+562,Produkt_562,Dom,436.9,Dostępny
+563,Produkt_563,Sport,1242.88,Dostępny
+564,Produkt_564,Dom,454.68,Na zamówienie
+565,Produkt_565,Elektronika,393.39,Na zamówienie
+566,Produkt_566,Zabawki,818.2,Na zamówienie
+567,Produkt_567,Elektronika,211.0,Na zamówienie
+568,Produkt_568,Sport,445.38,Na zamówienie
+569,Produkt_569,Moda,1277.29,Na zamówienie
+570,Produkt_570,Dom,1788.61,Na zamówienie
+571,Produkt_571,Dom,1479.65,Dostępny
+572,Produkt_572,Moda,1241.43,Dostępny
+573,Produkt_573,Książki,1133.52,Brak
+574,Produkt_574,Elektronika,1594.22,Brak
+575,Produkt_575,Moda,1145.96,Brak
+576,Produkt_576,Zabawki,1897.31,Dostępny
+577,Produkt_577,Dom,1901.31,Na zamówienie
+578,Produkt_578,Dom,797.19,Na zamówienie
+579,Produkt_579,Sport,479.05,Brak
+580,Produkt_580,Sport,1255.12,Na zamówienie
+581,Produkt_581,Zabawki,280.28,Brak
+582,Produkt_582,Elektronika,738.75,Dostępny
+583,Produkt_583,Sport,1379.68,Brak
+584,Produkt_584,Sport,1150.49,Na zamówienie
+585,Produkt_585,Dom,1950.61,Brak
+586,Produkt_586,Elektronika,1550.87,Na zamówienie
+587,Produkt_587,Elektronika,1850.19,Dostępny
+588,Produkt_588,Dom,310.14,Na zamówienie
+589,Produkt_589,Książki,1251.38,Brak
+590,Produkt_590,Elektronika,1242.2,Na zamówienie
+591,Produkt_591,Zabawki,1018.86,Brak
+592,Produkt_592,Dom,536.35,Dostępny
+593,Produkt_593,Książki,890.06,Brak
+594,Produkt_594,Książki,1094.96,Dostępny
+595,Produkt_595,Moda,1516.39,Na zamówienie
+596,Produkt_596,Sport,472.2,Dostępny
+597,Produkt_597,Moda,1572.96,Dostępny
+598,Produkt_598,Zabawki,1867.03,Na zamówienie
+599,Produkt_599,Dom,307.84,Brak
+600,Produkt_600,Sport,1977.53,Na zamówienie
+601,Produkt_601,Elektronika,1909.56,Dostępny
+602,Produkt_602,Sport,957.47,Brak
+603,Produkt_603,Sport,652.14,Na zamówienie
+604,Produkt_604,Dom,495.72,Brak
+605,Produkt_605,Dom,1307.54,Brak
+606,Produkt_606,Sport,80.87,Brak
+607,Produkt_607,Książki,341.15,Dostępny
+608,Produkt_608,Książki,1508.22,Na zamówienie
+609,Produkt_609,Książki,470.96,Dostępny
+610,Produkt_610,Moda,1656.51,Na zamówienie
+611,Produkt_611,Sport,461.29,Dostępny
+612,Produkt_612,Dom,1435.73,Na zamówienie
+613,Produkt_613,Książki,513.71,Dostępny
+614,Produkt_614,Zabawki,1501.37,Brak
+615,Produkt_615,Sport,1473.31,Brak
+616,Produkt_616,Dom,436.51,Dostępny
+617,Produkt_617,Elektronika,1168.15,Na zamówienie
+618,Produkt_618,Dom,298.62,Dostępny
+619,Produkt_619,Sport,691.84,Na zamówienie
+620,Produkt_620,Zabawki,1764.74,Brak
+621,Produkt_621,Moda,1426.13,Brak
+622,Produkt_622,Dom,293.46,Na zamówienie
+623,Produkt_623,Elektronika,339.37,Brak
+624,Produkt_624,Dom,910.1,Dostępny
+625,Produkt_625,Moda,1441.35,Brak
+626,Produkt_626,Zabawki,1461.78,Dostępny
+627,Produkt_627,Zabawki,722.06,Brak
+628,Produkt_628,Elektronika,281.44,Dostępny
+629,Produkt_629,Moda,76.06,Dostępny
+630,Produkt_630,Książki,673.56,Brak
+631,Produkt_631,Książki,1566.59,Na zamówienie
+632,Produkt_632,Moda,1859.55,Dostępny
+633,Produkt_633,Dom,1573.44,Na zamówienie
+634,Produkt_634,Książki,509.73,Brak
+635,Produkt_635,Elektronika,149.13,Na zamówienie
+636,Produkt_636,Elektronika,1638.0,Brak
+637,Produkt_637,Sport,456.14,Dostępny
+638,Produkt_638,Zabawki,444.97,Brak
+639,Produkt_639,Dom,187.56,Brak
+640,Produkt_640,Sport,396.91,Brak
+641,Produkt_641,Moda,1537.48,Na zamówienie
+642,Produkt_642,Książki,200.98,Na zamówienie
+643,Produkt_643,Zabawki,1766.85,Dostępny
+644,Produkt_644,Dom,888.15,Na zamówienie
+645,Produkt_645,Sport,761.6,Na zamówienie
+646,Produkt_646,Moda,384.57,Dostępny
+647,Produkt_647,Moda,679.27,Na zamówienie
+648,Produkt_648,Dom,620.45,Brak
+649,Produkt_649,Moda,1476.65,Dostępny
+650,Produkt_650,Książki,697.89,Brak
+651,Produkt_651,Elektronika,178.06,Dostępny
+652,Produkt_652,Dom,373.18,Na zamówienie
+653,Produkt_653,Elektronika,986.8,Brak
+654,Produkt_654,Dom,865.99,Na zamówienie
+655,Produkt_655,Moda,1496.55,Dostępny
+656,Produkt_656,Książki,1837.95,Na zamówienie
+657,Produkt_657,Książki,1780.7,Na zamówienie
+658,Produkt_658,Moda,709.62,Brak
+659,Produkt_659,Dom,167.6,Na zamówienie
+660,Produkt_660,Elektronika,332.77,Na zamówienie
+661,Produkt_661,Elektronika,289.21,Dostępny
+662,Produkt_662,Zabawki,1261.66,Brak
+663,Produkt_663,Moda,368.53,Brak
+664,Produkt_664,Moda,859.8,Dostępny
+665,Produkt_665,Zabawki,1386.21,Brak
+666,Produkt_666,Książki,146.87,Na zamówienie
+667,Produkt_667,Książki,1373.36,Dostępny
+668,Produkt_668,Zabawki,952.21,Na zamówienie
+669,Produkt_669,Książki,1201.71,Brak
+670,Produkt_670,Dom,1117.06,Dostępny
+671,Produkt_671,Moda,1804.17,Brak
+672,Produkt_672,Elektronika,553.94,Na zamówienie
+673,Produkt_673,Zabawki,1417.4,Dostępny
+674,Produkt_674,Moda,1301.71,Brak
+675,Produkt_675,Elektronika,624.92,Dostępny
+676,Produkt_676,Sport,1602.73,Dostępny
+677,Produkt_677,Elektronika,1018.94,Na zamówienie
+678,Produkt_678,Zabawki,1509.69,Brak
+679,Produkt_679,Dom,1567.49,Na zamówienie
+680,Produkt_680,Książki,1267.34,Brak
+681,Produkt_681,Moda,1021.64,Brak
+682,Produkt_682,Dom,978.77,Dostępny
+683,Produkt_683,Moda,1694.14,Dostępny
+684,Produkt_684,Moda,72.57,Na zamówienie
+685,Produkt_685,Dom,1159.21,Na zamówienie
+686,Produkt_686,Dom,448.44,Brak
+687,Produkt_687,Książki,1849.74,Brak
+688,Produkt_688,Elektronika,1581.39,Brak
+689,Produkt_689,Książki,1775.54,Dostępny
+690,Produkt_690,Dom,105.62,Na zamówienie
+691,Produkt_691,Dom,1420.36,Dostępny
+692,Produkt_692,Zabawki,1844.72,Dostępny
+693,Produkt_693,Zabawki,1367.13,Brak
+694,Produkt_694,Elektronika,599.76,Dostępny
+695,Produkt_695,Moda,137.33,Dostępny
+696,Produkt_696,Zabawki,946.7,Na zamówienie
+697,Produkt_697,Zabawki,1731.14,Na zamówienie
+698,Produkt_698,Sport,1235.21,Brak
+699,Produkt_699,Moda,1228.25,Dostępny
+700,Produkt_700,Sport,408.09,Dostępny
+701,Produkt_701,Dom,202.84,Brak
+702,Produkt_702,Elektronika,444.99,Dostępny
+703,Produkt_703,Zabawki,922.09,Dostępny
+704,Produkt_704,Zabawki,311.68,Na zamówienie
+705,Produkt_705,Książki,1079.29,Brak
+706,Produkt_706,Zabawki,1885.4,Na zamówienie
+707,Produkt_707,Dom,1208.0,Brak
+708,Produkt_708,Elektronika,389.5,Na zamówienie
+709,Produkt_709,Książki,512.42,Na zamówienie
+710,Produkt_710,Elektronika,198.37,Na zamówienie
+711,Produkt_711,Zabawki,477.83,Dostępny
+712,Produkt_712,Elektronika,765.82,Dostępny
+713,Produkt_713,Moda,173.28,Na zamówienie
+714,Produkt_714,Elektronika,237.09,Na zamówienie
+715,Produkt_715,Elektronika,1150.32,Brak
+716,Produkt_716,Zabawki,1169.15,Na zamówienie
+717,Produkt_717,Dom,435.86,Brak
+718,Produkt_718,Książki,1021.21,Brak
+719,Produkt_719,Dom,514.4,Na zamówienie
+720,Produkt_720,Elektronika,219.89,Brak
+721,Produkt_721,Zabawki,1827.53,Dostępny
+722,Produkt_722,Książki,1389.19,Brak
+723,Produkt_723,Moda,1316.73,Na zamówienie
+724,Produkt_724,Dom,1631.41,Dostępny
+725,Produkt_725,Książki,1354.22,Brak
+726,Produkt_726,Książki,1228.79,Dostępny
+727,Produkt_727,Sport,1256.41,Dostępny
+728,Produkt_728,Elektronika,611.41,Na zamówienie
+729,Produkt_729,Elektronika,1324.35,Na zamówienie
+730,Produkt_730,Dom,678.39,Brak
+731,Produkt_731,Moda,377.75,Dostępny
+732,Produkt_732,Moda,362.24,Brak
+733,Produkt_733,Elektronika,983.84,Brak
+734,Produkt_734,Dom,1671.74,Na zamówienie
+735,Produkt_735,Dom,1631.29,Dostępny
+736,Produkt_736,Elektronika,1212.0,Dostępny
+737,Produkt_737,Elektronika,1517.46,Na zamówienie
+738,Produkt_738,Książki,277.85,Dostępny
+739,Produkt_739,Sport,618.65,Dostępny
+740,Produkt_740,Elektronika,1353.43,Dostępny
+741,Produkt_741,Zabawki,649.91,Dostępny
+742,Produkt_742,Sport,1285.29,Na zamówienie
+743,Produkt_743,Elektronika,1320.3,Na zamówienie
+744,Produkt_744,Moda,222.02,Na zamówienie
+745,Produkt_745,Moda,647.01,Na zamówienie
+746,Produkt_746,Sport,994.03,Brak
+747,Produkt_747,Sport,1638.28,Dostępny
+748,Produkt_748,Moda,1619.82,Dostępny
+749,Produkt_749,Sport,453.38,Dostępny
+750,Produkt_750,Książki,1167.79,Dostępny
+751,Produkt_751,Książki,1211.29,Brak
+752,Produkt_752,Książki,1893.91,Dostępny
+753,Produkt_753,Dom,642.15,Dostępny
+754,Produkt_754,Moda,1382.36,Na zamówienie
+755,Produkt_755,Moda,34.44,Dostępny
+756,Produkt_756,Moda,39.71,Na zamówienie
+757,Produkt_757,Moda,909.88,Dostępny
+758,Produkt_758,Moda,366.92,Na zamówienie
+759,Produkt_759,Dom,1713.03,Dostępny
+760,Produkt_760,Sport,1502.26,Na zamówienie
+761,Produkt_761,Książki,710.63,Na zamówienie
+762,Produkt_762,Sport,1074.02,Dostępny
+763,Produkt_763,Sport,778.97,Dostępny
+764,Produkt_764,Dom,929.04,Na zamówienie
+765,Produkt_765,Książki,553.15,Na zamówienie
+766,Produkt_766,Elektronika,1433.66,Na zamówienie
+767,Produkt_767,Dom,641.0,Dostępny
+768,Produkt_768,Elektronika,1816.91,Na zamówienie
+769,Produkt_769,Dom,628.94,Brak
+770,Produkt_770,Zabawki,502.97,Dostępny
+771,Produkt_771,Książki,265.12,Dostępny
+772,Produkt_772,Moda,274.21,Na zamówienie
+773,Produkt_773,Sport,951.02,Brak
+774,Produkt_774,Książki,539.28,Na zamówienie
+775,Produkt_775,Dom,1373.66,Dostępny
+776,Produkt_776,Moda,129.6,Na zamówienie
+777,Produkt_777,Sport,1412.8,Dostępny
+778,Produkt_778,Książki,1973.69,Brak
+779,Produkt_779,Moda,1175.27,Brak
+780,Produkt_780,Moda,1957.74,Na zamówienie
+781,Produkt_781,Moda,1535.12,Dostępny
+782,Produkt_782,Dom,392.35,Dostępny
+783,Produkt_783,Zabawki,122.26,Dostępny
+784,Produkt_784,Elektronika,1740.55,Brak
+785,Produkt_785,Moda,964.63,Dostępny
+786,Produkt_786,Moda,482.67,Na zamówienie
+787,Produkt_787,Dom,538.15,Na zamówienie
+788,Produkt_788,Sport,1388.23,Na zamówienie
+789,Produkt_789,Moda,975.37,Brak
+790,Produkt_790,Elektronika,1330.49,Brak
+791,Produkt_791,Moda,1472.29,Dostępny
+792,Produkt_792,Sport,511.74,Na zamówienie
+793,Produkt_793,Elektronika,1177.52,Na zamówienie
+794,Produkt_794,Zabawki,334.42,Dostępny
+795,Produkt_795,Zabawki,181.39,Dostępny
+796,Produkt_796,Elektronika,1910.35,Na zamówienie
+797,Produkt_797,Elektronika,1514.31,Na zamówienie
+798,Produkt_798,Zabawki,807.32,Brak
+799,Produkt_799,Książki,1724.97,Brak
+800,Produkt_800,Książki,1210.5,Brak
+801,Produkt_801,Sport,463.32,Brak
+802,Produkt_802,Zabawki,1450.49,Dostępny
+803,Produkt_803,Sport,540.46,Na zamówienie
+804,Produkt_804,Elektronika,1479.72,Na zamówienie
+805,Produkt_805,Dom,643.45,Na zamówienie
+806,Produkt_806,Sport,386.9,Dostępny
+807,Produkt_807,Moda,1181.78,Na zamówienie
+808,Produkt_808,Elektronika,1137.06,Brak
+809,Produkt_809,Sport,1789.0,Dostępny
+810,Produkt_810,Elektronika,1910.52,Na zamówienie
+811,Produkt_811,Dom,1357.15,Brak
+812,Produkt_812,Książki,295.39,Dostępny
+813,Produkt_813,Moda,1352.39,Brak
+814,Produkt_814,Dom,1481.75,Na zamówienie
+815,Produkt_815,Elektronika,110.12,Na zamówienie
+816,Produkt_816,Książki,1448.81,Brak
+817,Produkt_817,Książki,815.72,Na zamówienie
+818,Produkt_818,Dom,1562.72,Brak
+819,Produkt_819,Zabawki,751.6,Brak
+820,Produkt_820,Sport,1279.95,Na zamówienie
+821,Produkt_821,Dom,212.81,Dostępny
+822,Produkt_822,Książki,526.9,Dostępny
+823,Produkt_823,Zabawki,849.73,Brak
+824,Produkt_824,Moda,1395.46,Na zamówienie
+825,Produkt_825,Książki,1573.73,Dostępny
+826,Produkt_826,Zabawki,1313.52,Dostępny
+827,Produkt_827,Sport,1546.43,Na zamówienie
+828,Produkt_828,Elektronika,932.08,Dostępny
+829,Produkt_829,Moda,1795.71,Na zamówienie
+830,Produkt_830,Elektronika,1258.22,Na zamówienie
+831,Produkt_831,Dom,54.2,Dostępny
+832,Produkt_832,Książki,1311.36,Na zamówienie
+833,Produkt_833,Moda,777.46,Dostępny
+834,Produkt_834,Sport,1115.98,Na zamówienie
+835,Produkt_835,Elektronika,1825.12,Na zamówienie
+836,Produkt_836,Moda,79.15,Brak
+837,Produkt_837,Dom,654.17,Brak
+838,Produkt_838,Sport,719.13,Na zamówienie
+839,Produkt_839,Dom,1019.6,Dostępny
+840,Produkt_840,Sport,421.2,Brak
+841,Produkt_841,Elektronika,252.68,Brak
+842,Produkt_842,Sport,42.86,Dostępny
+843,Produkt_843,Moda,1203.6,Na zamówienie
+844,Produkt_844,Książki,71.23,Brak
+845,Produkt_845,Sport,1105.78,Na zamówienie
+846,Produkt_846,Sport,1443.93,Dostępny
+847,Produkt_847,Sport,1078.79,Brak
+848,Produkt_848,Dom,777.85,Brak
+849,Produkt_849,Książki,664.67,Dostępny
+850,Produkt_850,Książki,1566.03,Na zamówienie
+851,Produkt_851,Książki,1920.32,Na zamówienie
+852,Produkt_852,Zabawki,1097.43,Na zamówienie
+853,Produkt_853,Książki,945.77,Dostępny
+854,Produkt_854,Zabawki,543.51,Na zamówienie
+855,Produkt_855,Moda,595.39,Dostępny
+856,Produkt_856,Elektronika,1453.85,Brak
+857,Produkt_857,Elektronika,612.39,Na zamówienie
+858,Produkt_858,Moda,1936.58,Na zamówienie
+859,Produkt_859,Sport,1993.35,Dostępny
+860,Produkt_860,Sport,789.37,Na zamówienie
+861,Produkt_861,Książki,176.03,Brak
+862,Produkt_862,Książki,1892.85,Brak
+863,Produkt_863,Książki,1878.39,Na zamówienie
+864,Produkt_864,Elektronika,852.95,Brak
+865,Produkt_865,Elektronika,1265.88,Brak
+866,Produkt_866,Książki,1882.16,Brak
+867,Produkt_867,Książki,767.77,Brak
+868,Produkt_868,Moda,743.86,Dostępny
+869,Produkt_869,Dom,762.03,Brak
+870,Produkt_870,Dom,1753.74,Dostępny
+871,Produkt_871,Dom,712.03,Na zamówienie
+872,Produkt_872,Zabawki,1549.15,Brak
+873,Produkt_873,Elektronika,235.31,Dostępny
+874,Produkt_874,Zabawki,1889.05,Na zamówienie
+875,Produkt_875,Elektronika,610.08,Dostępny
+876,Produkt_876,Zabawki,984.44,Brak
+877,Produkt_877,Elektronika,1330.38,Na zamówienie
+878,Produkt_878,Sport,449.36,Brak
+879,Produkt_879,Elektronika,1138.96,Brak
+880,Produkt_880,Dom,17.47,Dostępny
+881,Produkt_881,Sport,1263.45,Dostępny
+882,Produkt_882,Moda,625.31,Brak
+883,Produkt_883,Zabawki,510.05,Brak
+884,Produkt_884,Książki,1018.46,Brak
+885,Produkt_885,Dom,484.52,Na zamówienie
+886,Produkt_886,Elektronika,1453.54,Brak
+887,Produkt_887,Zabawki,1349.94,Dostępny
+888,Produkt_888,Dom,1416.68,Dostępny
+889,Produkt_889,Elektronika,771.74,Na zamówienie
+890,Produkt_890,Książki,713.79,Na zamówienie
+891,Produkt_891,Zabawki,711.88,Brak
+892,Produkt_892,Moda,1143.58,Brak
+893,Produkt_893,Zabawki,1551.92,Dostępny
+894,Produkt_894,Sport,405.03,Dostępny
+895,Produkt_895,Dom,61.38,Brak
+896,Produkt_896,Zabawki,719.59,Na zamówienie
+897,Produkt_897,Moda,859.94,Dostępny
+898,Produkt_898,Sport,455.74,Dostępny
+899,Produkt_899,Książki,1114.14,Na zamówienie
+900,Produkt_900,Dom,1450.64,Dostępny
+901,Produkt_901,Sport,1750.49,Brak
+902,Produkt_902,Książki,1504.88,Dostępny
+903,Produkt_903,Elektronika,1059.28,Na zamówienie
+904,Produkt_904,Zabawki,80.87,Na zamówienie
+905,Produkt_905,Elektronika,1673.99,Na zamówienie
+906,Produkt_906,Sport,1208.67,Na zamówienie
+907,Produkt_907,Książki,678.14,Dostępny
+908,Produkt_908,Elektronika,85.2,Brak
+909,Produkt_909,Zabawki,433.32,Brak
+910,Produkt_910,Książki,1171.23,Brak
+911,Produkt_911,Książki,1861.96,Brak
+912,Produkt_912,Dom,1662.55,Brak
+913,Produkt_913,Moda,1773.46,Na zamówienie
+914,Produkt_914,Zabawki,1707.54,Na zamówienie
+915,Produkt_915,Elektronika,746.63,Brak
+916,Produkt_916,Dom,1480.23,Brak
+917,Produkt_917,Sport,876.64,Na zamówienie
+918,Produkt_918,Elektronika,1638.23,Dostępny
+919,Produkt_919,Zabawki,1192.42,Brak
+920,Produkt_920,Sport,1162.45,Dostępny
+921,Produkt_921,Sport,116.18,Dostępny
+922,Produkt_922,Moda,1364.87,Na zamówienie
+923,Produkt_923,Moda,398.08,Brak
+924,Produkt_924,Moda,865.43,Dostępny
+925,Produkt_925,Sport,1073.06,Dostępny
+926,Produkt_926,Dom,563.67,Dostępny
+927,Produkt_927,Sport,297.81,Na zamówienie
+928,Produkt_928,Elektronika,1044.44,Brak
+929,Produkt_929,Elektronika,1422.44,Brak
+930,Produkt_930,Zabawki,46.67,Brak
+931,Produkt_931,Dom,813.26,Dostępny
+932,Produkt_932,Elektronika,711.27,Brak
+933,Produkt_933,Zabawki,984.83,Na zamówienie
+934,Produkt_934,Sport,750.59,Dostępny
+935,Produkt_935,Książki,1716.66,Dostępny
+936,Produkt_936,Sport,280.33,Brak
+937,Produkt_937,Elektronika,1823.69,Dostępny
+938,Produkt_938,Elektronika,1251.57,Na zamówienie
+939,Produkt_939,Dom,1198.24,Na zamówienie
+940,Produkt_940,Dom,1563.36,Dostępny
+941,Produkt_941,Zabawki,793.88,Na zamówienie
+942,Produkt_942,Zabawki,1769.51,Brak
+943,Produkt_943,Dom,1246.89,Dostępny
+944,Produkt_944,Moda,1515.86,Dostępny
+945,Produkt_945,Sport,731.79,Dostępny
+946,Produkt_946,Dom,180.22,Na zamówienie
+947,Produkt_947,Książki,521.29,Na zamówienie
+948,Produkt_948,Zabawki,555.84,Brak
+949,Produkt_949,Elektronika,233.43,Brak
+950,Produkt_950,Moda,665.15,Brak
+951,Produkt_951,Książki,314.55,Dostępny
+952,Produkt_952,Elektronika,1642.1,Dostępny
+953,Produkt_953,Elektronika,80.29,Na zamówienie
+954,Produkt_954,Moda,593.1,Brak
+955,Produkt_955,Zabawki,327.41,Na zamówienie
+956,Produkt_956,Sport,686.54,Dostępny
+957,Produkt_957,Sport,222.81,Na zamówienie
+958,Produkt_958,Książki,701.72,Dostępny
+959,Produkt_959,Zabawki,104.84,Dostępny
+960,Produkt_960,Sport,1777.76,Dostępny
+961,Produkt_961,Sport,994.19,Dostępny
+962,Produkt_962,Elektronika,1324.41,Brak
+963,Produkt_963,Zabawki,1195.95,Brak
+964,Produkt_964,Moda,705.13,Brak
+965,Produkt_965,Sport,1177.07,Na zamówienie
+966,Produkt_966,Elektronika,1486.15,Dostępny
+967,Produkt_967,Moda,1879.12,Na zamówienie
+968,Produkt_968,Dom,944.26,Na zamówienie
+969,Produkt_969,Sport,1588.81,Na zamówienie
+970,Produkt_970,Moda,1973.12,Brak
+971,Produkt_971,Moda,945.04,Brak
+972,Produkt_972,Sport,254.68,Na zamówienie
+973,Produkt_973,Zabawki,105.03,Na zamówienie
+974,Produkt_974,Moda,823.46,Dostępny
+975,Produkt_975,Dom,1475.24,Dostępny
+976,Produkt_976,Zabawki,910.69,Dostępny
+977,Produkt_977,Elektronika,283.56,Na zamówienie
+978,Produkt_978,Zabawki,1723.15,Brak
+979,Produkt_979,Moda,1878.9,Na zamówienie
+980,Produkt_980,Książki,888.21,Na zamówienie
+981,Produkt_981,Książki,1572.91,Dostępny
+982,Produkt_982,Elektronika,129.24,Na zamówienie
+983,Produkt_983,Zabawki,1148.43,Na zamówienie
+984,Produkt_984,Dom,1227.37,Dostępny
+985,Produkt_985,Książki,1018.83,Brak
+986,Produkt_986,Dom,868.57,Dostępny
+987,Produkt_987,Sport,1798.63,Brak
+988,Produkt_988,Sport,354.78,Na zamówienie
+989,Produkt_989,Sport,1415.67,Dostępny
+990,Produkt_990,Zabawki,1445.4,Na zamówienie
+991,Produkt_991,Książki,214.86,Dostępny
+992,Produkt_992,Moda,1219.9,Dostępny
+993,Produkt_993,Sport,753.82,Dostępny
+994,Produkt_994,Dom,465.24,Na zamówienie
+995,Produkt_995,Zabawki,996.64,Na zamówienie
+996,Produkt_996,Moda,1415.4,Brak
+997,Produkt_997,Książki,1978.87,Brak
+998,Produkt_998,Moda,1281.0,Na zamówienie
+999,Produkt_999,Dom,564.57,Brak
+1000,Produkt_1000,Sport,200.11,Brak
